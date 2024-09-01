@@ -7,7 +7,7 @@ function MyWorkSec() {
   return (
 <section className="grid grid-cols-2">
     <div className="ml-[100px] mt-[20px] card relative">
-      <img className="w-[100%] h-[100%]" src="/public/images/Project1.png" alt="" />
+      <img className="w-[100%] h-[100%]" src="/images/Project1.png" alt="" />
       <div className="card__content">
         <p className="text-black card__title">SolarSpot(Under Development)</p>
         <p className="font-semibold text-black card__description">
@@ -18,7 +18,7 @@ function MyWorkSec() {
       </div>
     </div>
     <div className=" mt-[20px] card">
-      <img className="w-[100%] h-[100%]" src="/public/images/Project2.png" alt="" />
+      <img className="w-[100%] h-[100%]" src="/images/Project2.png" alt="" />
       <div className="card__content">
         <p className="text-black card__title">Little Angel School</p>
         <p className="font-semibold text-black card__description">
@@ -29,7 +29,7 @@ function MyWorkSec() {
       </div>
     </div>
     <div className="ml-[100px] mt-[20px] card">
-      <img className="w-[100%] h-[100%]" src="/public/images/Project3.png" alt="" />
+      <img className="w-[100%] h-[100%]" src="/images/Project3.png" alt="" />
       <div className="card__content">
         <p className="text-black card__title">E-Commerce</p>
         <p className="font-semibold text-black card__description">
